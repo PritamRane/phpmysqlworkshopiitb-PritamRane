@@ -1,2 +1,2 @@
-# phpmysqlworkshopiitb-PritamRane
-Assignments
+
+# Assignments
