@@ -1,12 +1,12 @@
 <?php 
-
-	$name = $_POST['name'];
-	$sub1 = $_POST['1'];	
-	$sub2 = $_POST['2'];
-	$sub3 = $_POST['3'];
-	$sub4 = $_POST['4'];
-	$sub5 = $_POST['5'];
-	$all = array($sub1,$sub2,$sub3,$sub4,$sub5);
+		$name = $_POST['name'];
+		$sub1 = $_POST['1'];	
+		$sub2 = $_POST['2'];
+		$sub3 = $_POST['3'];
+		$sub4 = $_POST['4'];
+		$sub5 = $_POST['5'];
+		$all = array($sub1,$sub2,$sub3,$sub4,$sub5);
+	
 
  ?>
 <!DOCTYPE html>
