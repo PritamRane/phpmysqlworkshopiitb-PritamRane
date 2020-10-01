@@ -63,7 +63,7 @@
 			  Percentage : 
 			  <?php 
 
-			  		echo ((array_sum($all)/600)*100)." %";
+			  		echo ((array_sum($all)/500)*100)." %";
 
 			   ?>
 		   </span>
