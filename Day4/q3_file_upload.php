@@ -37,9 +37,9 @@
 				<?php 
 					if(isset($_FILES['image'])){
 						echo "<th>$file_name</th>
-				<th>".".$extension</th>
-				<th>$file_type</th>
-				<th>$file_size</th>";
+						<th>".".$extension</th>
+						<th>$file_type</th>
+						<th>$file_size</th>";
 					}
 				 ?>
 			</tr>
