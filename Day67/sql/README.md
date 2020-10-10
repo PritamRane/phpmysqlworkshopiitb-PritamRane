@@ -1,9 +1,9 @@
-#Admin
+# Admin
 
-email - prixcreater@gmail.com
-password - 123
+ - email - prixcreater@gmail.com
+ - password - 123
 
-#User
+# User
 
-email - abc@gmail.com
-password - 123
+- email - abc@gmail.com
+- password - 123
